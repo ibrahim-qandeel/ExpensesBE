@@ -18,6 +18,8 @@ public class AppStarter {
 //		for (String beanName : appContext.getBeanDefinitionNames()) {
 //			System.out.println(beanName);
 //		}
+		
+		
 
 	}
 
